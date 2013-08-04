@@ -1,5 +1,5 @@
 # rain for a curses test
-
+# nico
 require "curses"
 
 def onsig(sig)
